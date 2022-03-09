@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
  🌱 I’m currently learning **in a Full Stack Bootcamp**
+ 
+<iframe src="https://external-preview.redd.it/FuqGGUPh2r8D5y9joV5UzJLme-Q5KVUq-SQYaJrVOvE.gif?format=mp4&s=ff402255f420afbacbd330ae0cb998be8be05e31" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
