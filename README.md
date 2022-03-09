@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rubén porté" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubén porté" height="30" width="40" /></a>
-<a href="mailto:rubencaporte@gmail.com" <img align="center" src="https://toppng.com/uploads/preview/download-icono-de-gmail-fondo-transparente-11563267500np377bcfym.png" alt="rubén porté" height="30" width="40"></a>
+<a href="mailto:rubencaporte@gmail.com"> <img align="center" src="https://toppng.com/uploads/preview/download-icono-de-gmail-fondo-transparente-11563267500np377bcfym.png" alt="rubén porté" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
