@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rubén</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **in a Full Stack Bootcamp**
+ 🌱 I’m currently learning **in a Full Stack Bootcamp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
